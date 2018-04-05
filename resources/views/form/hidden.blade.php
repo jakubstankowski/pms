@@ -1,0 +1,1 @@
+{{Form::hiden($name,$value,$attributes)}}
